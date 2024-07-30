@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990846190649",
+    "project_id": "flutterkidsauth",
+    "storage_bucket": "flutterkidsauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990846190649:android:909678e742cfb937d3f9e8",
+        "android_client_info": {
+          "package_name": "com.example.child_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABy_3wcA23tHsZWwqPoHSrcNoVKPpQQe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
