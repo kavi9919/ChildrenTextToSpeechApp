@@ -90,7 +90,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      const Text("Already have an account? "),
+                      const Text("Don't have an account? "),
                       InkWell(
                         onTap: () => goToSignup(context),
                         child: const Text(
