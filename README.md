@@ -1,5 +1,7 @@
 # Children's Language Learning App
 
+![App Screenshot](https://e39kgacrqofgaphj.public.blob.vercel-storage.com/childrenapp-rGbfe8J6yXLWrzvxhrFzZNtNovOsbm.png)
+
 A Flutter-based mobile application designed to help children learn speaking in three languages: Sinhala, Tamil, and English. The app allows children to express their feelings through emojis, provides pronunciation assistance via Google Text-to-Speech, and facilitates communication with others, making it an engaging tool for language learning and emotional expression.
 
 ## Features
