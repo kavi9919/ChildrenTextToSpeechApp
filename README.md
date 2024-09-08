@@ -1,16 +1,29 @@
-# child_auth
+# Children's Language Learning App
 
-A new Flutter project.
+A Flutter-based mobile application designed to help children learn speaking in three languages: Sinhala, Tamil, and English. The app allows children to express their feelings through emojis, provides pronunciation assistance via Google Text-to-Speech, and facilitates communication with others, making it an engaging tool for language learning and emotional expression.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Learn to speak in Sinhala, Tamil, and English.
+- Identify and express feelings using emojis.
+- Get pronunciation help through Google Text-to-Speech.
+- Communicate with others through the app.
+- User authentication using Firebase Authentication.
+- Store and retrieve user data securely via Firestore Database.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** - For building the app interface.
+- **Google Text-to-Speech** - For pronunciation assistance.
+- **Firebase Authentication** - For secure user authentication.
+- **Firestore Database** - For storing and retrieving user data.
+- **Dart** - Backend logic and integration with Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-project.git
+
